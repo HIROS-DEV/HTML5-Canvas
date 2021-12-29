@@ -22,6 +22,8 @@ Under construction
 
 <p>How to use canvas and how to draw rectangle in the canvas</p>
 <p>How to resize canvas</p>
+<p>How to draw circle on canvas</p>
+<p>How to generate many circle on canvas</p>
 
 ## Impressions
 
